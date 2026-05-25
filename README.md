@@ -89,4 +89,14 @@ The project currently includes:
 - modular subsystem integration,
 - and first-version software implementation.
 
+---
+
+## Future Improvements
+
+- Improved IR sensor calibration
+- Better obstacle avoidance logic
+- PWM speed optimization
+- Full autonomous line tracking
+- Battery management improvements
+
 Some features, such as IR line tracking, are still being tested and refined.
