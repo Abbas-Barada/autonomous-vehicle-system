@@ -10,7 +10,7 @@ Arduino-based autonomous vehicle capable of:
 
 ## Vehicle Preview
 
-(Add your vehicle image here later)
+![Vehicle](images/Front_View.png)
 
 ---
 
