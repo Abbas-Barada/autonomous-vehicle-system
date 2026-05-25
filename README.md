@@ -98,5 +98,3 @@ The project currently includes:
 - PWM speed optimization
 - Full autonomous line tracking
 - Battery management improvements
-
-Some features, such as IR line tracking, are still being tested and refined.
